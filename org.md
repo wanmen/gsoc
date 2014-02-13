@@ -1,4 +1,4 @@
-Wanmen 2014 Summer of Code Mentoring Organization Proposal
+#Wanmen 2014 Summer of Code Mentoring Organization Proposal
 
 1. [Describe your organization](#q1)
 2. [Why is your organization applying to participate in Google Summer of Code 2014? What do you hope to gain by participating?](#q2)
@@ -100,6 +100,9 @@ We will try to make the learning process enjoyable and knowledgeable. In the pro
 
 <a name="mentor">Mentors</a>
 Tao Xu, xutao881001 AT gmail.com
+
 Zan Pan,panzan89 at gmail.com
+
 Cheng Li,
+
 Shaohuan Li, shaohuan.li AT gmail.com
