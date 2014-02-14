@@ -62,6 +62,16 @@ Tasks: Design and implement an online  quiz system that rewards users and motiva
 
 Language:
 
+##4. Online Mind Mapping Tool
+
+Mind mapping plays an important role in teaching and discussing now, as a online teaching project, Wanmen needs mind mapping too. This idea aims at providing a easy-to-use online tool for teachers and students who need mind mapping to clarify their thought. In this project, students need to build a front-end application by using HTML5, CSS and JavaScript, and meet the following requirements:
+
+(1) User can add central topic and add several subtopic associated with central topic, and add sub-subtopic for subtopic
+(2) There need to be a link between topics, is should be auto-arranged
+(3) Support callout(comment on a topic) 
+(4) User can add lines to related topics, all lines should be arranged well to keep the graph clear
+(5) It's possible to serialize the mind mapping to a JSON data pack, and keep it exactly the same when loaded the next time
+
 
 Other project ideas:
 Distributed system networks.
