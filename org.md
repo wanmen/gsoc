@@ -103,6 +103,6 @@ Tao Xu, xutao881001 AT gmail.com
 
 Zan Pan,panzan89 at gmail.com
 
-Cheng Li,
+Chen Li, limifly AT gmail.com
 
 Shaohuan Li, shaohuan.li AT gmail.com

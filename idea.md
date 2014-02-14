@@ -36,7 +36,7 @@ Collaborative teaching has various approaches. Video annotating can be one effic
 
 Wanmen has built a basic video playlist project (sea.wanmen.org) which doesn’t utilise the power of collaborative learning. A lot more interesting collaborative learning ideas can be added to the system and make it shine.
 
-Tasks: Design and implement a collaborative video annotation system that allows users to create and display multimedia annotations at specific seconds.
+Tasks: Design and implement a collaborative video annotation system that allows users to create and display multimedia annotations at specific seconds. It will be even better if users can rate other's comment, and administrators can pick up those really useful comment and give them a fixed place to show in the video.
 
 Language: Ruby/Python, HTML5, JavaScript, Bootstrap, Backbone/Angular,etc.
 
